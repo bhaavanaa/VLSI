@@ -1,6 +1,6 @@
-# VLSI_Lab
+# VLSI
 
-VLSI Lab - Semester 5
+VLSI Lab
 
 Lab assignments, design activity and project
 
